@@ -94,3 +94,11 @@ Descriptive and inferential analyses on word count, eye-tracking metrics, and be
 Linear mixed-effects models for time-series data.
 Outputs:
 None. Results displayed as R outputs instead of xlsx. 
+
+This results in figures detailing the change of gaze and narrative reinstatement over the trial. Significant narrative reinstatement of scene descriptions (i.e., repeating details in the original temporal order) occurred throughout the entire period of recall, with younger adults showing higher reinstatement early during recall. 
+<img width="3430" height="2540" alt="reinstatement_result_course" src="https://github.com/user-attachments/assets/f39c86e3-5ea3-450c-bdc9-b21b1a1975af" />
+
+Narrative and gaze reinstatement formed a reciprocal, dynamic, and iterative feedback loop across time, such that each preceded and followed the other, but aging changed the timing and directionality of this relationship. 
+<img width="3301" height="3137" alt="CMA" src="https://github.com/user-attachments/assets/df5951d6-2543-43a8-8466-448651083541" />
+
+
